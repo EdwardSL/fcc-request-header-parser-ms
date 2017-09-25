@@ -1,0 +1,25 @@
+{
+  "name": "request-header-parser-ms",
+  "version": "0.0.0",
+  "description": "I can get the IP address, language and operating system for my browser.",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdwardSL/fcc-request-header-parser-ms.git"
+  },
+  "author": "Mostafa Eweda <mo.eweda@gmail.com>",
+  "dependencies": {
+    "async": "~0.2.8",
+    "express": "~3.2.4",
+    "socket.io": "~0.9.14"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {},
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdwardSL/fcc-request-header-parser-ms/issues"
+  },
+  "homepage": "https://github.com/EdwardSL/fcc-request-header-parser-ms#readme"
+}
